@@ -260,7 +260,9 @@ On Thursday we sanded the wooden tray and the cardholders that we had fabricated
 
 We also dedicated time to sketching the system diagram for the cardboard box with the Arduino and electronics and also for the whole system (including instructions on how to use).
 
-We finally placed all the pieces as a whole and set up the final code on Arduino to make sure the Speaker Mic would work.
+We finally placed all the pieces as a whole and set up the final code on Arduino to make sure the Speaker Mic would work. We also added the LED strips to the inside of the sensor box.
+
+![](https://i.imgur.com/YZ1TEuT.png)
 
 **Exploration Sketches**
 
@@ -300,6 +302,9 @@ The set up of Perception Board, pointers, wooden tray, Speaker Mic, cardboard bo
 
 ![](https://i.imgur.com/ttavG7v.jpg)
 
+![](https://i.imgur.com/4iB6NSC.png)
+
+<iframe src="https://drive.google.com/file/d/16vvRVimmYO-sxQxR-dgNAKxNHtgwH7Sd/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 ## BOM (Build of Materials)
