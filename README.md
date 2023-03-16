@@ -320,7 +320,7 @@ The set up of Perception Board, pointers, wooden tray, Speaker Mic, cardboard bo
 
 ### Arduino Code
 
-[Arduino Code](xxxx)
+[Arduino Code](https://drive.google.com/drive/u/1/folders/1VSRRTYYkQRoalqXwe7gfSW5sRMXxSAnB)
 
 ### Physical Material Resources
 - PLA (Color - white)
@@ -656,6 +656,7 @@ The set up of Perception Board, pointers, wooden tray, Speaker Mic, cardboard bo
 
 ![](https://i.imgur.com/ttavG7v.jpg)
 
+![](https://i.imgur.com/PAA57S0.png)
 
 Video
 
