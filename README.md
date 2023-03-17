@@ -322,6 +322,8 @@ The set up of Perception Board, pointers, wooden tray, Speaker Mic, cardboard bo
 
 [Arduino Code](https://drive.google.com/drive/u/1/folders/1VSRRTYYkQRoalqXwe7gfSW5sRMXxSAnB)
 
+![](https://i.imgur.com/zQjw4eo.png)
+
 ### Physical Material Resources
 - PLA (Color - white)
 - Wood (for CNC tray)
